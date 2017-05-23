@@ -1,0 +1,29 @@
+.task-seven{
+	/*border-top: 3px solid black;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+	border-left: 3px solid black;*/
+	border: solid black;
+	border-width: 3px 1px 1px 3px;
+	line-height: 50px;
+	width: 356px;
+	padding-left: 6px;
+}
+
+
+.su-one{
+	color: blue;
+	/*font-size: 15px;*/
+}
+.su-two{
+	color: red;
+	/*font-size: 15px;*/
+}
+.su-one, .su-two{
+	font-size: 15px;
+}
+
+
+.font-seven{
+	font-size: 25px;
+}
